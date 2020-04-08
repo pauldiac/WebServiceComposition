@@ -1,4 +1,4 @@
-# (Automated) Web Service Composition Repository
+## (Automated) Web Service Composition Repository
 Contains code wrote during my Ph.D. focused on solving composition challenges and generating tests.
 
 ## Contains
