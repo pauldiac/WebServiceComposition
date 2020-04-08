@@ -5,8 +5,7 @@ Contains code wrote during my Ph.D. focused on solving composition challenges an
 
  * __name match__ first algorithm implemented for the `2005 Web Services Challenge` also contains one benchmark, the test generator and other tools
      
- * __hierarchical__
-   -  contributions for the first semantic composition model, from the `2008 Web Services Challenge`. does not include algorithm code
+ * __hierarchical__ contributions for the first semantic composition model, from the `2008 Web Services Challenge`. does not include algorithm code
 
  * __relational__
     the first semantic extension proposed for automated composition: adding __binary relations__ between concepts, __inference rules__ and __objects__ as elements passed through composition
