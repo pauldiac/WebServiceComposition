@@ -1,0 +1,16 @@
+(msisdn msisdn)
+(state state)
+(city city)
+(districtNum districtNum)
+(longitude longitude)
+(latitude latitude)
+(diameter diameter)
+(weather weather)
+(map map)
+
+(preconds
+	(known msisdn)	
+	(known diameter))
+(effects
+        (known weather)
+        (known map))

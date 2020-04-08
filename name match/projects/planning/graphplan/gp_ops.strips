@@ -1,0 +1,181 @@
+#old-style
+(operator
+  ws24
+  (params (<par10> par10) (<par103> par103) (<par104> par104) (<par105> par105) (<par106> par106) (<par107> par107) (<par7> par7) (<par8> par8) (<par9> par9))
+  (precons (known <par7>) (known <par10>) (known <par9>) (known <par8>))
+  (effects (known <par104>) (known <par105>) (known <par106>) (known <par107>) (known <par103>))
+)
+(operator
+  ws25
+  (params (<par11> par11) (<par12> par12) (<par139> par139) (<par140> par140) (<par141> par141) (<par142> par142) (<par143> par143) (<par144> par144) (<par7> par7) (<par8> par8) (<par9> par9))
+  (precons (known <par7>) (known <par12>) (known <par11>) (known <par9>) (known <par8>))
+  (effects (known <par140>) (known <par139>) (known <par141>) (known <par142>) (known <par143>) (known <par144>))
+)
+(operator
+  ws26
+  (params (<par10> par10) (<par12> par12) (<par145> par145) (<par146> par146) (<par147> par147) (<par148> par148) (<par149> par149) (<par7> par7) (<par8> par8) (<par9> par9))
+  (precons (known <par7>) (known <par12>) (known <par10>) (known <par9>) (known <par8>))
+  (effects (known <par148>) (known <par149>) (known <par145>) (known <par146>) (known <par147>))
+)
+(operator
+  ws27
+  (params (<par10> par10) (<par12> par12) (<par151> par151) (<par152> par152) (<par153> par153) (<par154> par154) (<par155> par155) (<par156> par156) (<par7> par7) (<par9> par9))
+  (precons (known <par7>) (known <par12>) (known <par10>) (known <par9>))
+  (effects (known <par156>) (known <par155>) (known <par154>) (known <par153>) (known <par152>) (known <par151>))
+)
+(operator
+  ws20
+  (params (<par11> par11) (<par12> par12) (<par43> par43) (<par45> par45) (<par46> par46) (<par48> par48) (<par7> par7) (<par8> par8) (<par9> par9))
+  (precons (known <par7>) (known <par12>) (known <par11>) (known <par9>) (known <par8>))
+  (effects (known <par48>) (known <par43>) (known <par45>) (known <par46>))
+)
+(operator
+  ws21
+  (params (<par10> par10) (<par11> par11) (<par12> par12) (<par49> par49) (<par50> par50) (<par51> par51) (<par52> par52) (<par54> par54) (<par7> par7) (<par8> par8))
+  (precons (known <par7>) (known <par12>) (known <par11>) (known <par10>) (known <par8>))
+  (effects (known <par49>) (known <par54>) (known <par52>) (known <par51>) (known <par50>))
+)
+(operator
+  ws22
+  (params (<par10> par10) (<par11> par11) (<par12> par12) (<par7> par7) (<par73> par73) (<par75> par75) (<par78> par78) (<par8> par8) (<par9> par9))
+  (precons (known <par12>) (known <par11>) (known <par10>) (known <par7>) (known <par9>) (known <par8>))
+  (effects (known <par78>) (known <par73>) (known <par75>))
+)
+(operator
+  ws23
+  (params (<par11> par11) (<par7> par7) (<par8> par8) (<par91> par91) (<par93> par93) (<par94> par94) (<par95> par95) (<par96> par96))
+  (precons (known <par7>) (known <par11>) (known <par8>))
+  (effects (known <par93>) (known <par91>) (known <par96>) (known <par95>) (known <par94>))
+)
+(operator
+  ws28
+  (params (<par10> par10) (<par158> par158) (<par160> par160) (<par161> par161) (<par7> par7) (<par8> par8) (<par9> par9))
+  (precons (known <par7>) (known <par10>) (known <par9>) (known <par8>))
+  (effects (known <par161>) (known <par160>) (known <par158>))
+)
+(operator
+  ws29
+  (params (<par11> par11) (<par12> par12) (<par163> par163) (<par164> par164) (<par166> par166) (<par167> par167) (<par168> par168) (<par8> par8))
+  (precons (known <par12>) (known <par11>) (known <par8>))
+  (effects (known <par166>) (known <par167>) (known <par164>) (known <par163>) (known <par168>))
+)
+(operator
+  ws1
+  (params (<par13> par13) (<par14> par14) (<par15> par15) (<par16> par16) (<par17> par17) (<par18> par18) (<par2> par2) (<par3> par3) (<par4> par4) (<par5> par5) (<par6> par6))
+  (precons (known <par6>) (known <par5>) (known <par4>) (known <par3>) (known <par2>))
+  (effects (known <par13>) (known <par17>) (known <par16>) (known <par15>) (known <par14>) (known <par18>))
+)
+(operator
+  ws3
+  (params (<par3> par3) (<par4> par4) (<par43> par43) (<par44> par44) (<par47> par47) (<par48> par48) (<par6> par6))
+  (precons (known <par6>) (known <par4>) (known <par3>))
+  (effects (known <par48>) (known <par43>) (known <par44>) (known <par47>))
+)
+(operator
+  ws2
+  (params (<par1> par1) (<par25> par25) (<par26> par26) (<par27> par27) (<par3> par3) (<par30> par30) (<par4> par4) (<par5> par5) (<par6> par6))
+  (precons (known <par6>) (known <par5>) (known <par4>) (known <par3>) (known <par1>))
+  (effects (known <par26>) (known <par27>) (known <par25>) (known <par30>))
+)
+(operator
+  ws5
+  (params (<par1> par1) (<par2> par2) (<par3> par3) (<par4> par4) (<par5> par5) (<par6> par6) (<par73> par73) (<par74> par74) (<par75> par75) (<par76> par76) (<par77> par77) (<par78> par78))
+  (precons (known <par6>) (known <par5>) (known <par4>) (known <par3>) (known <par2>) (known <par1>))
+  (effects (known <par78>) (known <par73>) (known <par75>) (known <par74>) (known <par77>) (known <par76>))
+)
+(operator
+  ws4
+  (params (<par1> par1) (<par2> par2) (<par3> par3) (<par4> par4) (<par49> par49) (<par5> par5) (<par51> par51) (<par52> par52) (<par53> par53) (<par54> par54) (<par6> par6))
+  (precons (known <par6>) (known <par5>) (known <par4>) (known <par3>) (known <par2>) (known <par1>))
+  (effects (known <par49>) (known <par54>) (known <par53>) (known <par52>) (known <par51>))
+)
+(operator
+  ws7
+  (params (<par2> par2) (<par3> par3) (<par4> par4) (<par5> par5) (<par6> par6) (<par91> par91) (<par92> par92) (<par95> par95) (<par96> par96))
+  (precons (known <par6>) (known <par5>) (known <par4>) (known <par3>) (known <par2>))
+  (effects (known <par92>) (known <par91>) (known <par96>) (known <par95>))
+)
+(operator
+  ws6
+  (params (<par1> par1) (<par3> par3) (<par4> par4) (<par5> par5) (<par6> par6) (<par85> par85) (<par87> par87) (<par89> par89) (<par90> par90))
+  (precons (known <par6>) (known <par5>) (known <par4>) (known <par3>) (known <par1>))
+  (effects (known <par85>) (known <par87>) (known <par89>) (known <par90>))
+)
+(operator
+  ws9
+  (params (<par1> par1) (<par103> par103) (<par104> par104) (<par106> par106) (<par107> par107) (<par108> par108) (<par3> par3) (<par4> par4) (<par5> par5) (<par6> par6))
+  (precons (known <par6>) (known <par5>) (known <par4>) (known <par3>) (known <par1>))
+  (effects (known <par104>) (known <par106>) (known <par107>) (known <par108>) (known <par103>))
+)
+(operator
+  ws8
+  (params (<par1> par1) (<par100> par100) (<par101> par101) (<par102> par102) (<par2> par2) (<par3> par3) (<par4> par4) (<par97> par97) (<par98> par98) (<par99> par99))
+  (precons (known <par4>) (known <par3>) (known <par2>) (known <par1>))
+  (effects (known <par100>) (known <par101>) (known <par102>) (known <par99>) (known <par98>) (known <par97>))
+)
+(operator
+  ws19
+  (params (<par10> par10) (<par11> par11) (<par12> par12) (<par37> par37) (<par38> par38) (<par41> par41) (<par42> par42) (<par7> par7) (<par8> par8) (<par9> par9))
+  (precons (known <par12>) (known <par11>) (known <par10>) (known <par7>) (known <par9>) (known <par8>))
+  (effects (known <par41>) (known <par37>) (known <par42>) (known <par38>))
+)
+(operator
+  ws18
+  (params (<par10> par10) (<par11> par11) (<par31> par31) (<par32> par32) (<par33> par33) (<par34> par34) (<par35> par35) (<par36> par36) (<par7> par7) (<par8> par8) (<par9> par9))
+  (precons (known <par7>) (known <par11>) (known <par10>) (known <par9>) (known <par8>))
+  (effects (known <par35>) (known <par34>) (known <par36>) (known <par31>) (known <par33>) (known <par32>))
+)
+(operator
+  ws30
+  (params (<par10> par10) (<par12> par12) (<par169> par169) (<par170> par170) (<par171> par171) (<par173> par173) (<par174> par174) (<par7> par7) (<par8> par8) (<par9> par9))
+  (precons (known <par7>) (known <par12>) (known <par10>) (known <par9>) (known <par8>))
+  (effects (known <par174>) (known <par171>) (known <par170>) (known <par173>) (known <par169>))
+)
+(operator
+  ws15
+  (params (<par1> par1) (<par10> par10) (<par12> par12) (<par2> par2) (<par3> par3) (<par4> par4) (<par5> par5) (<par8> par8))
+  (precons (known <par12>) (known <par10>) (known <par8>))
+  (effects (known <par5>) (known <par4>) (known <par3>) (known <par2>) (known <par1>))
+)
+(operator
+  ws14
+  (params (<par1> par1) (<par164> par164) (<par166> par166) (<par167> par167) (<par168> par168) (<par2> par2) (<par3> par3) (<par5> par5) (<par6> par6))
+  (precons (known <par6>) (known <par5>) (known <par3>) (known <par2>) (known <par1>))
+  (effects (known <par166>) (known <par167>) (known <par164>) (known <par168>))
+)
+(operator
+  ws17
+  (params (<par10> par10) (<par12> par12) (<par25> par25) (<par27> par27) (<par28> par28) (<par29> par29) (<par30> par30) (<par8> par8) (<par9> par9))
+  (precons (known <par12>) (known <par10>) (known <par9>) (known <par8>))
+  (effects (known <par27>) (known <par25>) (known <par30>) (known <par28>) (known <par29>))
+)
+(operator
+  ws16
+  (params (<par11> par11) (<par20> par20) (<par21> par21) (<par23> par23) (<par24> par24) (<par7> par7) (<par8> par8) (<par9> par9))
+  (precons (known <par7>) (known <par11>) (known <par9>) (known <par8>))
+  (effects (known <par24>) (known <par23>) (known <par20>) (known <par21>))
+)
+(operator
+  ws11
+  (params (<par1> par1) (<par115> par115) (<par116> par116) (<par117> par117) (<par118> par118) (<par119> par119) (<par120> par120) (<par2> par2) (<par3> par3) (<par4> par4) (<par5> par5) (<par6> par6))
+  (precons (known <par6>) (known <par5>) (known <par4>) (known <par3>) (known <par2>) (known <par1>))
+  (effects (known <par117>) (known <par116>) (known <par115>) (known <par119>) (known <par118>) (known <par120>))
+)
+(operator
+  ws10
+  (params (<par1> par1) (<par109> par109) (<par110> par110) (<par111> par111) (<par112> par112) (<par113> par113) (<par2> par2) (<par3> par3))
+  (precons (known <par3>) (known <par2>) (known <par1>))
+  (effects (known <par113>) (known <par112>) (known <par111>) (known <par110>) (known <par109>))
+)
+(operator
+  ws13
+  (params (<par1> par1) (<par157> par157) (<par158> par158) (<par159> par159) (<par160> par160) (<par2> par2) (<par3> par3) (<par5> par5) (<par6> par6))
+  (precons (known <par6>) (known <par5>) (known <par3>) (known <par2>) (known <par1>))
+  (effects (known <par157>) (known <par160>) (known <par159>) (known <par158>))
+)
+(operator
+  ws12
+  (params (<par139> par139) (<par140> par140) (<par142> par142) (<par143> par143) (<par144> par144) (<par2> par2) (<par4> par4) (<par5> par5))
+  (precons (known <par5>) (known <par4>) (known <par2>))
+  (effects (known <par139>) (known <par140>) (known <par142>) (known <par143>) (known <par144>))
+)

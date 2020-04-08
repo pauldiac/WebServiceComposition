@@ -1,0 +1,39 @@
+(operator
+  locatePhone
+  (params (<msisdn> msisdn) (<state> state) (<city> city) (<districtNum> districtNum))
+  (preconds
+	(known <msisdn>))
+  (effects
+	(known <state>) (known <city>) (known <districtNum>)))
+
+(operator
+  getPosition
+  (params (<city> city) (<districtNum> districtNum) (<longitude> longitude) (<latitude> latitude))
+  (preconds
+	(known <city>) (known <districtNum>))
+  (effects
+	 (known <longitude>) (known <latitude>)))
+
+(operator
+  getLatLon
+  (params (<state> state) (<city> city) (<longitude> longitude) (<latitude> latitude))
+  (preconds
+	(known <state>) (known <city>))
+  (effects
+	 (known <longitude>) (known <latitude>)))
+
+(operator
+  getWeather
+  (params (<state> state) (<city> city) (<weather> weather))
+  (preconds
+	(known <state>) (known <city>))
+  (effects
+	 (known <weather>)))
+
+(operator
+  getMap
+  (params (<longitude> longitude) (<latitude> latitude) (<diameter> diameter) (<map> map))
+  (preconds
+	(known <longitude>) (known <latitude>) (known <diameter>))
+  (effects
+	 (known <map>)))

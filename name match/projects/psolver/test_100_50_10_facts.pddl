@@ -1,0 +1,5 @@
+(define (problem Test_1)
+  (:domain domain1)
+  (:init (have par649) (have par835) (have par261) (have par405) (have par961) (have par62) (have par756) (have par540) (have par880) (have par127))
+  (:goal (and (have par205) (have par927) (have par358) (have par55) (have par764) (have par802) (have par826)))
+)
