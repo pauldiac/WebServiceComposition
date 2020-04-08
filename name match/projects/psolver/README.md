@@ -1,19 +1,12 @@
-main reads from
+## Content
 
-argument file name plus suffix:
- _ops.pddl, _facts.pddl
+ * __main.cpp__ - the single `.cpp` file which reads and solves the composition instance
+ * __test_x_y_z__ - sample of a test, see the __benchmark__ directory for other tests and more information
 
-and writes to:
-
-.log
-.sol_poly
-.sol_poly2
-
-Example usage:
-
-
+## Usage example
+```
 g++ main.cpp
-./a.out test_100_50_30
+./a.out test_100_50_10
+```
 
-Will read from ./test_100_50_30_ops.pddl and ./test_100_50_30_facts.pddl and write to ./test_100_50_30.log, ./test_100_50_30.sol_poly and ./test_100_50_30.sol_poly2
-
+Reads from argument file name plus suffix: `_ops.pddl`, `_facts.pddl`, and writes to: `.log` the logs, `.sol_poly` initial solution, `.sol_poly2` optimized solution.
