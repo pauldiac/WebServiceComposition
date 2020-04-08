@@ -1,4 +1,4 @@
-## Fist Semantic, Hierarchical - Parameter Matching model
+## First Semantic, Hierarchical - Parameter Matching model
 
 This initial model was is the first to introduce a hierarchy of concepts for parameters, and subsumption relation. It was used for the 2008 edition of the Web Services Challenge. No code here as it is not my own contribution, but __Liana Ţucăr__'s bachelors degree project.
 
