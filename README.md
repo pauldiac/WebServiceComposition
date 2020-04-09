@@ -1,7 +1,7 @@
 ## (Automatic) Web Service Composition
 Contains code, tools, tests and papers from my PhD, focused on solving web service composition challenges.
 
-## Directories
+## Content
 
  * __name match__ first algorithm implemented for the `2005 Web Services Challenge` also contains one benchmark, the test generator and other tools
      
