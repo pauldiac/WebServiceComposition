@@ -1,4 +1,5 @@
-## Relational Paramter Matching model for WSC. Content:
+## Relational Paramter Matching model for Automatic Web Service Composition.
+## Content:
 
  * __RelationalWSC__ the solver and generator ?
  * __benckmark.zip__ zip archive with generated tests
