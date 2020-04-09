@@ -1,0 +1,3 @@
+query0 -> ws21 ws91 ws87 
+query1 -> ws31 ws38 ws93 ws85 ws96 
+query2 -> ws25 ws6 ws34 ws73 ws55 

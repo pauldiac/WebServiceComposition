@@ -1,0 +1,301 @@
+100 services
+ws35
+ in: par1142 par472 par807 par521 par620 par1149 
+out: par1848 par1356 par469 par1221 par731 
+ws24
+ in: par935 par1906 par1790 par340 par212 par686 par1267 
+out: par779 par60 par1147 par662 
+ws27
+ in: par837 par948 par1198 
+out: par859 par1656 par387 par1056 par701 par589 par1299 
+ws22
+ in: par539 par1260 par1921 par492 par14 
+out: par1670 par1570 par1734 par1312 par1025 par688 
+ws47
+ in: par944 par421 par1576 par1730 par782 par997 par347 
+out: par1092 par286 par1334 par530 par238 par910 par1641 
+ws49
+ in: par1250 par1439 par125 par232 par855 par1223 par468 
+out: par192 par1729 par1767 par289 par953 par1287 par1112 
+ws39
+ in: par108 par1091 par1836 par718 
+out: par900 par1504 par1059 par898 
+ws98
+ in: par1805 par1681 par1405 par1743 
+out: par1140 par1292 par1224 par1210 par1212 
+ws41
+ in: par1902 par558 par952 
+out: par714 par1319 par1089 
+ws6
+ in: par1250 par940 
+out: par1941 
+ws62
+ in: par1739 par22 par1689 par865 
+out: par1605 par1247 par133 
+ws46
+ in: par1073 par172 par1565 par599 par137 
+out: par804 par1180 par77 par1886 par776 par1068 
+ws31
+ in: par480 par625 par1395 par286 par1855 par85 par453 
+out: par1230 par334 par1653 par1006 par788 par766 par347 
+ws11
+ in: par1072 par103 par1594 
+out: par1162 par859 par1461 par1702 par697 par853 
+ws23
+ in: par504 par153 par1500 par1521 par1674 par115 
+out: par1629 par1095 par1012 par1344 
+ws48
+ in: par1392 par132 par1056 
+out: par1262 par1833 par910 
+ws71
+ in: par1250 par318 par1218 par564 par1347 par1045 par566 
+out: par1727 par1517 par487 par1248 par310 par841 
+ws87
+ in: par161 par76 par621 
+out: par8 par1922 par1712 par618 
+ws91
+ in: par245 par311 par1205 par1732 par1342 par14 par1256 
+out: par1052 par161 par132 par76 par621 
+ws1
+ in: par1461 par702 par735 par850 par1972 
+out: par1955 par34 par695 par514 par1685 par1453 
+ws10
+ in: par418 par1081 par660 par1517 par386 par431 par1640 
+out: par526 par1091 par21 par1942 par1711 par1077 par723 
+ws3
+ in: par1848 par317 par1548 par1965 par287 par1255 
+out: par490 par1360 par1130 par116 
+ws21
+ in: par245 par1205 par1342 par1256 
+out: par311 par1732 par14 
+ws25
+ in: par384 par1616 par1168 par940 
+out: par1250 par1395 par629 par158 par488 par226 
+ws51
+ in: par812 par1901 par1291 par1819 
+out: par692 par30 par443 par212 par1983 par166 par1143 
+ws94
+ in: par1062 par1642 par1762 
+out: par1617 par1491 par868 par795 par763 par1028 par1033 
+ws38
+ in: par1653 par788 par347 
+out: par1727 par11 par601 par1891 
+ws2
+ in: par1913 par700 par426 
+out: par94 par1317 par451 par89 par783 par887 
+ws88
+ in: par1775 par1675 par1799 par1546 par1353 par15 par974 
+out: par280 par1668 par644 
+ws53
+ in: par1342 par14 
+out: par1922 par132 par76 
+ws42
+ in: par151 par965 par1377 
+out: par1492 par1062 par1885 par1621 par1851 par1499 par699 
+ws16
+ in: par847 par1847 par685 par1026 par502 par1354 
+out: par408 par1493 par508 
+ws69
+ in: par924 par914 par140 par1568 par1897 par611 
+out: par1937 par625 par1900 par388 par447 par744 
+ws18
+ in: par738 par93 par1338 par915 par1858 par1453 
+out: par1095 par1370 par751 par1455 par1975 par365 
+ws72
+ in: par480 par949 par333 par1776 par1143 par1388 
+out: par1373 par736 par938 par467 par259 
+ws40
+ in: par625 par1230 par286 par1006 par453 
+out: 
+ws26
+ in: par1739 par606 par128 par940 
+out: par890 par1942 par211 par855 par1264 par324 
+ws67
+ in: par1395 par1020 par384 par1844 par1616 par629 par1941 
+out: par194 par1082 par1546 
+ws81
+ in: par311 par245 par1205 par1732 
+out: 
+ws78
+ in: par1506 par1004 par774 par1875 par1595 
+out: par1184 par1988 par1549 par592 par1269 par279 par932 
+ws76
+ in: par868 par287 par1585 
+out: par746 par1191 par1622 par1990 par896 
+ws66
+ in: par1020 par629 par488 par1941 par1168 
+out: 
+ws79
+ in: par193 par1790 par463 par238 par379 par1244 
+out: par839 par355 par861 par860 
+ws15
+ in: par1480 par1848 par1557 par1773 
+out: par1943 par1517 par1747 par1697 par123 
+ws54
+ in: par8 par311 par1342 par49 par621 
+out: par912 par1722 par46 par1696 par1476 
+ws63
+ in: par1250 par1395 par384 par1814 par1082 par158 par488 
+out: par1491 par807 par1200 
+ws59
+ in: par838 par1945 par542 par1831 par1100 par1530 
+out: par537 par1713 par253 par1258 par1204 par1331 
+ws30
+ in: par390 par8 par1064 par1927 par1004 par321 par79 
+out: par1340 par1933 par1170 par1596 
+ws43
+ in: par306 par1718 par1876 par1232 par1330 
+out: par18 par292 par626 par1097 par1295 par687 par1662 
+ws86
+ in: par1839 par725 par1104 
+out: par848 par1073 par191 par229 par1429 par1093 par513 
+ws50
+ in: par242 par587 par1385 par588 par1377 
+out: par293 par1570 par462 par729 par1148 par503 
+ws5
+ in: par163 par631 par1930 par777 par632 par1454 par786 
+out: par1074 par559 par317 par829 par1231 par841 
+ws74
+ in: par1754 par776 par1222 
+out: par506 par1738 par1752 par1532 par265 par288 
+ws68
+ in: par851 par1697 par1523 par1166 par404 
+out: par160 par1197 par180 
+ws95
+ in: par90 par724 par917 par1499 par1363 
+out: par366 par1643 par1567 par789 
+ws4
+ in: par473 par1407 par42 par1688 par1743 
+out: par1153 par250 par75 par1601 par324 par1684 
+ws77
+ in: par823 par1471 par1902 par861 par1510 par953 
+out: par256 par1368 par1941 
+ws96
+ in: par11 par334 par453 
+out: par421 
+ws65
+ in: par245 par311 par1205 
+out: 
+ws82
+ in: par1825 par1836 par464 par1487 
+out: par947 par1768 par521 
+ws56
+ in: par317 par1729 par1954 par20 par1357 par289 
+out: par1645 par266 par321 par1046 
+ws33
+ in: par419 par707 par1103 par1510 par760 par1100 par534 
+out: par1959 par1950 par265 par1589 
+ws75
+ in: par1942 par1991 par1331 par15 
+out: par422 par246 par754 
+ws34
+ in: par1395 par384 par1616 par940 par1168 
+out: par1020 
+ws85
+ in: par625 par1855 par1039 par453 par1006 
+out: par63 
+ws64
+ in: par946 par191 par1825 par1357 par646 par1154 par764 
+out: par286 par3 par873 par1018 par1541 
+ws60
+ in: par8 par1712 par245 par14 
+out: par835 par1525 par96 par498 par49 
+ws70
+ in: par132 par14 par1342 
+out: 
+ws90
+ in: par1197 par351 par684 par1267 par1354 
+out: par172 par1890 par960 par1276 par489 par523 
+ws32
+ in: par1959 par1969 par598 par503 par357 par1574 par1530 
+out: par1519 par934 par840 par980 
+ws19
+ in: par1020 par1702 par629 par158 
+out: par1360 par1814 par1751 
+ws80
+ in: par902 par182 par924 par243 par1342 par952 
+out: par1184 par1305 par74 par184 par1730 par1997 par579 
+ws36
+ in: par1705 par696 par840 
+out: par894 par1594 par1333 par665 
+ws13
+ in: par914 par1053 par409 par1538 par541 par832 par921 
+out: par4 par1650 par1685 par138 par666 
+ws55
+ in: par1250 par384 par1814 par158 par1941 
+out: par1844 par179 
+ws93
+ in: par1727 par625 par766 par347 
+out: par1039 
+ws83
+ in: par1823 par165 par1024 
+out: par1951 par1621 par101 par354 par1660 par833 par1674 
+ws58
+ in: par270 par296 par906 par1190 par884 par1134 
+out: par506 par1767 par1920 par139 par1310 par1321 
+ws20
+ in: par760 par1545 par1663 par1960 
+out: par1914 par1142 par230 par1503 par1357 
+ws28
+ in: par1395 par1230 par1855 par11 par601 
+out: par572 par231 par63 par470 par85 par21 par1650 
+ws57
+ in: par461 par432 par99 par139 par1243 par148 par116 
+out: par582 par187 par1319 par1082 par400 par1116 par1396 
+ws89
+ in: par1617 par1416 par541 par1651 
+out: par924 par1629 par1408 par1206 par388 
+ws84
+ in: par628 par1087 par1350 par626 par461 par1743 par1430 
+out: par877 par445 par533 par511 
+ws12
+ in: par1922 par76 par1256 
+out: par621 
+ws29
+ in: par109 par987 par190 par1454 
+out: par1593 par1734 par234 par33 par622 
+ws92
+ in: par1547 par287 par337 par369 
+out: par1736 par663 par1227 par1799 par1985 par468 
+ws7
+ in: par528 par994 par1114 par1562 par38 
+out: par917 par1308 par499 par9 par578 
+ws99
+ in: par480 par625 par1230 par1650 
+out: par371 par1357 par421 
+ws8
+ in: par1041 par966 par1679 par1731 par730 par750 par446 
+out: par638 par82 par760 par544 par610 
+ws9
+ in: par1274 par1447 par233 par558 
+out: par193 par591 par333 par1687 par1697 par420 par1066 
+ws14
+ in: par1727 par21 par1891 
+out: par791 par1851 par980 par1039 par1819 par588 
+ws73
+ in: par1020 par1616 par629 par226 
+out: par1814 par1082 
+ws45
+ in: par1779 par184 par234 
+out: par1889 par1422 par1215 
+ws52
+ in: par627 par1271 par1854 par353 par536 
+out: par1263 par1251 par971 par169 par1279 par434 par1564 
+ws0
+ in: par173 par41 par1655 par876 par1344 par1585 
+out: par1939 par1930 par1762 
+ws17
+ in: par1085 par1139 par1546 par1557 par820 par336 
+out: par1054 par1836 par1786 par1524 par1732 
+ws44
+ in: par1727 par1395 par85 par334 par453 
+out: 
+ws61
+ in: par97 par1769 par1831 par1099 par1066 par1123 
+out: par749 par725 par582 par1327 par1758 par1441 par327 
+ws97
+ in: par384 par629 par226 
+out: par1020 par1504 par1702 par1844 par179 par1941 par830 
+ws37
+ in: par1716 par352 par770 
+out: par1959 par1394 par1602 par95 par1689 par1663 par897 

@@ -1,0 +1,52 @@
+3 backups
+backup in query0 replaces services ws91 -> ... -> ws54
+ws65
+ in: par245 par311 par1205 
+out: 
+ws81
+ in: par311 par245 par1205 par1732 
+out: 
+ws53
+ in: par1342 par14 
+out: par1922 par132 par76 
+ws12
+ in: par1922 par76 par1256 
+out: par621 
+ws70
+ in: par132 par14 par1342 
+out: 
+
+backup in query1 replaces services ws28 -> ... -> ws14
+ws93
+ in: par1727 par625 par766 par347 
+out: par1039 
+ws96
+ in: par11 par334 par453 
+out: par421 
+ws40
+ in: par625 par1230 par286 par1006 par453 
+out: 
+ws85
+ in: par625 par1855 par1039 par453 par1006 
+out: par63 
+ws44
+ in: par1727 par1395 par85 par334 par453 
+out: 
+
+backup in query2 replaces services ws97 -> ... -> ws19
+ws34
+ in: par1395 par384 par1616 par940 par1168 
+out: par1020 
+ws6
+ in: par1250 par940 
+out: par1941 
+ws73
+ in: par1020 par1616 par629 par226 
+out: par1814 par1082 
+ws55
+ in: par1250 par384 par1814 par158 par1941 
+out: par1844 par179 
+ws66
+ in: par1020 par629 par488 par1941 par1168 
+out: 
+

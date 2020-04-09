@@ -1,0 +1,10 @@
+3 queries
+query0
+ in: par1922 par132 par76 par621 
+out: par245 par1205 par1342 par1256 
+query1
+ in: par63 par421 par1039 par766 
+out: par480 par1395 par625 par1855 par286 par85 par453 
+query2
+ in: par629 par179 par1941 
+out: par384 par1616 par940 par1168 
