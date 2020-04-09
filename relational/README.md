@@ -1,4 +1,4 @@
-## Relational Parameter  Matching model for Automatic Web Service Composition.
+## Relational Semantic Parameter Matching Model for Automatic Web Service Composition.
 ## Content:
 
  * __RelationalWSC__ the solver
