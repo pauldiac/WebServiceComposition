@@ -8,4 +8,3 @@
  * __concepts.out__, __services.out__, __query.out__ output files with the concepts and their properties, the repository and the user request.
  * __hiddenAnswer.ok__ the generated valid composition. not necessarily unique as the dependencies between services is not strict. 
  
-The algorithm solver implementation was done by __Andrei Netedu__ for his master's degree thesis.
