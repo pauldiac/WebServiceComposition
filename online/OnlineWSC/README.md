@@ -3,7 +3,7 @@ This contains both the composition and backup scenarios.
 
 ## Content
 
- * __OnlineWSC.jar__ run with `java -jar OnlineWSC.jar`. Input parameters are hardcoded into the code, in file `OnlineWSC.java` in `src`: 
+ * __OnlineWSC.jar__ run with `java -jar OnlineWSC.jar`. Parameters hardcoded into the code, in file `OnlineWSC.java` in `src`: 
    * `PARAMETERS` - total number of distinct parameter names
    * `SERVICES` - total number of web services in the repository
    * `PARS_MIN` - minimum number of parameters per service
@@ -13,13 +13,13 @@ This contains both the composition and backup scenarios.
    * `BKP_LG` - number of web service for alternative paths built for backups. Each request has its backup built by the generator
  * __src__ `.java` source code
  * output files. All formats are very simple and intuitive, see the files content:
-   * __repo.txt__ - the repository
-   * __paths.txt__ - generated solutions
-   * __backups.txt__ generated backups
-   * __queries.txt__ the composition requests
-   * __solutions__ the initially built solutions (ignoring generator information about the solutions)
-   * __scores__ scores assigned to services for each composition request
-   * __solutions_after__ the re-built solutions generated after services are deleted (the deleted services are the ones for which backups were built).
+   * `repo.txt` - the repository
+   * `paths.txt` - generated solutions
+   * `backups.txt` generated backups
+   * `queries.txt` the composition requests
+   * `solutions` the initially built solutions (ignoring generator information about the solutions)
+   * `scores` scores assigned to services for each composition request
+   * `solutions_after` the re-built solutions generated after services are deleted (the deleted services are the ones for which backups were built).
 
    
    
