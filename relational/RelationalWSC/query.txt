@@ -1,0 +1,5 @@
+nume_rand
+C c D d 
+A a1 A a2 B b1 B b2 
+Rel_1 a1 b1 Rel_1 a2 b2 Rel_2 a1 c Rel_3 a2 d
+

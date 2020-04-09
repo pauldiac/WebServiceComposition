@@ -1,0 +1,12 @@
+5 3 0
+
+R R
+A R
+B R
+C R
+D R
+
+Rel_1
+Rel_2
+Rel_3
+

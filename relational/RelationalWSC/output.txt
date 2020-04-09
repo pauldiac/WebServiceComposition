@@ -1,0 +1,62 @@
+run:
+-------------------------------------------------------------- Input parsing done.
+Knowledge after learning user input and running rules:
+-------------------------------------------------------------- Start building composition.
+nume_rand Serv_3 Serv_2 Serv_1 
+Called service Serv_3 with params:d(nume_rand_0_d) , knowledge after is:
+Object by name:
+   Serv_3_1_a : A with relations: Rel_3(Serv_3_1_a, nume_rand_0_d) 
+   nume_rand_0_c : C with no relations.
+   nume_rand_0_d : D with no relations.
+Called service Serv_2 with params:c(nume_rand_0_c) , knowledge after is:
+Object by name:
+   Serv_2_1_a : A with relations: Rel_2(Serv_2_1_a, nume_rand_0_c) 
+   Serv_3_1_a : A with relations: Rel_3(Serv_3_1_a, nume_rand_0_d) 
+   nume_rand_0_c : C with no relations.
+   nume_rand_0_d : D with no relations.
+Called service Serv_1 with params:a(Serv_3_1_a) , knowledge after is:
+Object by name:
+   Serv_2_1_a : A with relations: Rel_2(Serv_2_1_a, nume_rand_0_c) 
+   Serv_1_1_b : B with no relations.
+   Serv_3_1_a : A with relations: Rel_1(Serv_3_1_a, Serv_1_1_b) Rel_3(Serv_3_1_a, nume_rand_0_d) 
+   nume_rand_0_c : C with no relations.
+   nume_rand_0_d : D with no relations.
+Called service Serv_1 with params:a(Serv_2_1_a) , knowledge after is:
+Object by name:
+   Serv_2_1_a : A with relations: Rel_1(Serv_2_1_a, Serv_1_2_b) Rel_2(Serv_2_1_a, nume_rand_0_c) 
+   Serv_1_2_b : B with no relations.
+   Serv_1_1_b : B with no relations.
+   Serv_3_1_a : A with relations: Rel_1(Serv_3_1_a, Serv_1_1_b) Rel_3(Serv_3_1_a, nume_rand_0_d) 
+   nume_rand_0_c : C with no relations.
+   nume_rand_0_d : D with no relations.
+Solved user query with: a1(Serv_2_1_a) a2(Serv_3_1_a) b1(Serv_1_2_b) b2(Serv_1_1_b) c(nume_rand_0_c) d(nume_rand_0_d) 
+objToServ.size() = 6
+servToObj.size() = 3
+execution time in seconds: 0.022
+that number that Liana wants is = 3 : Serv_3 Serv_2 nume_rand Serv_1 
+
+repository size: 3
+#services (4) are :
+
+nume_rand
+input = a1 : A ( Rel_1(a1, b1) Rel_2(a1, c)  ) , a2 : A ( Rel_1(a2, b2) Rel_3(a2, d)  ) , b1 : B , b2 : B , c : C , d : D , 
+output = c : C, d : D, 
+relations = Rel_1(a1, b1), Rel_1(a2, b2), Rel_2(a1, c), Rel_3(a2, d), 
+
+Serv_3
+input = d : D , 
+output = a : A, 
+relations = Rel_3(a, d), 
+
+Serv_2
+input = c : C , 
+output = a : A, 
+relations = Rel_2(a, c), 
+
+Serv_1
+input = a : A ( Rel_1(a, b)  ) , 
+output = b : B, 
+relations = Rel_1(a, b), 
+
+BUILD SUCCESSFUL (total time: 0 seconds)
+

@@ -1,0 +1,17 @@
+3
+Serv_1
+A a
+B b 
+Rel_1 a b
+
+Serv_2
+C c
+A a 
+Rel_2 a c
+
+Serv_3
+D d
+A a 
+Rel_3 a d
+
+

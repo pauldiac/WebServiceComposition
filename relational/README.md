@@ -1,0 +1,7 @@
+## Relational Paramter Matching model for WSC. Content:
+
+ * __RelationalWSC__ the solver and generator ?
+ * __benckmark.zip__ zip archive with generated tests
+ * __2019 KES__ paper published at KES conference describing the model, solver and generator
+ * __2019 FROM__ short paper publishet at FROM workshop, part of SYNASC conference, with the formal definition of the relational matching composition problem
+ 
