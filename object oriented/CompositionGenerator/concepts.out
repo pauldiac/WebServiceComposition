@@ -1,0 +1,6 @@
+5
+concept1 -> null properties (property5:concept3, property2:concept4, property4:concept5)
+concept2 -> concept1 properties (property5:concept3, property2:concept4, property4:concept5)
+concept3 -> concept1 properties (property3:concept2, property6:concept3, property5:concept3, property2:concept4, property4:concept5)
+concept4 -> concept1 properties (property1:concept2, property5:concept3, property2:concept4, property4:concept5)
+concept5 -> concept2 properties (property5:concept3, property2:concept4, property4:concept5)

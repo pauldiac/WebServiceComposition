@@ -1,0 +1,2 @@
+Init: concept1(property4), concept5(property4), concept3(property3)
+Goal: concept4(property4), concept1(property5)

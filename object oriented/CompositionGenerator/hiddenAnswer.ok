@@ -1,0 +1,17 @@
+Init: concept1(property4), concept5(property4), concept3(property3)
+Goal: concept4(property4), concept1(property5)
+service2
+in -> concept2(property4), concept1(property4), concept3(property3)
+out -> concept5(property4), concept4(property2), concept1(property5, property4)
+service6
+in -> concept3(property3)
+out -> concept4(property4), concept5(property4), concept2(property5, property4)
+service3
+in -> concept2(property5), concept1(property5), concept4(property2), concept3(property3)
+out -> concept2(property5), concept5(property2)
+service5
+in -> concept5(property2), concept1(property5, property4), concept2(property4)
+out -> concept4(property4), concept5(property5, property4), concept3(property5)
+service4
+in -> concept5(property5), concept4(property4), concept1(property2)
+out -> concept4(property2), concept5(property5, property4)
