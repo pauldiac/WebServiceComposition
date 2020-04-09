@@ -1,4 +1,4 @@
-## (Automatic) Web Service Composition Umbrella Repository
+## (Automatic) Web Service Composition
 Contains code, tools and tests, done during my Ph.D. focused on solving composition challenges.
 
 ## Directories
