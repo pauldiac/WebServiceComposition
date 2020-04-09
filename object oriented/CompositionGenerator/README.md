@@ -1,6 +1,6 @@
-##Implementation of the test generator for the Object-Oriented model of WSC
+## Implementation of the test generator for the Object-Oriented model of WSC
 
-##Content
+## Content
 
  * __CompositonGenerator.jar__ run with `java -jar CompositonGenerator.jar`. Reads from `param.txt` the following parameters: number of concepts, properties (members), web services, number of dependencies of other services of the services in the query,  and the maximum number of parameters per service.
  * __src__ `.java` source code
