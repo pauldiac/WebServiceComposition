@@ -1,7 +1,8 @@
-## Relational Solver Implemtnation. Content
+## Relational Model Algorithm Implementation
+## Content
 
- * __src` the .java` source code
- * __RelationalWSC.jar__ reads from files `ontology.txt`, `repository.txt` and `query.txt` which have a simple format, see the .readFromFile() for more details. run with `java -jar RelationalWSC.jar`.
+ * __src__ the `.java` source code
+ * __RelationalWSC.jar__ run with `java -jar RelationalWSC.jar`. reads from files `ontology.txt`, `repository.txt` and `query.txt` which have a simple format, see the .readFromFile() method in `RelationalWSCMain.java` for more details. 
  * __ontology.txt__ sample ontology file with concepts, hierarchy, relations and inference rules
  * __repository.txt__ sample repository with each service's input and output parameters and their relations
  * __query.txt__ sample ontology file similar to a service
