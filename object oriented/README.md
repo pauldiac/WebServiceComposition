@@ -1,9 +1,9 @@
-##The Object-Orietned Matching Model for Automatic Web Service Composition
-This model is inspider from `schema.org` data model. https://schema.org/docs/datamodel.html
+## The Object-Oriented Matching Model for Automatic Web Service Composition
+This model is inspired mostly from `schema.org` data model. https://schema.org/docs/datamodel.html
 
-##Content
+## Content
 
  * __CompositonGenerator__ the test generator algorithm
- * __2019 ICEBE__ paper about the OpenAPI Semantic / Object - Oriented Model published at ICEBE conference in 2019
+ * __2019 ICEBE__ published paper about the OpenAPI Semantic / Object-Oriented Model from the ICEBE conference in 2019
  
-The algorithm solver implementation was done by __Andrei Netedu__ for his master's degree thesis.
+The algorithm solving the composition was implemented by __Andrei Netedu__ for his master's degree thesis.
