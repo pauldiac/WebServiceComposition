@@ -1,4 +1,4 @@
-## Relational Model Algorithm Implementation
+## Relational Semantic Model Algorithm Implementation
 ## Content
 
  * __src__ the `.java` source code
