@@ -1,5 +1,5 @@
 ## Online (or dynamic) version of the Automatic Web Service composition problem
-Using the initial name-matching model for simplicity. See paper, `2019 ICSOFT.pdf` file,  contains many more details.
+Using the initial name-matching model for simplicity. The paper, `2019 ICSOFT.pdf` file,  contains many more details.
 
 ## Content
 
