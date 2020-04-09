@@ -1,5 +1,6 @@
 ## (Automatic) Web Service Composition
 Contains code, tools, tests and papers from my PhD, focused on solving web service composition challenges.
+Check out my profile on [Google Scholar](https://scholar.google.com/citations?user=jGiwuhwAAAAJ) or [DBLP](https://dblp.uni-trier.de/pers/hd/d/Diac:Paul) for more research-related stuff!
 
 ## Content
 
