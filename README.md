@@ -1,5 +1,5 @@
 ## (Automatic) Web Service Composition
-Contains code, tools and tests, done during my Ph.D. focused on solving composition challenges.
+Contains code, tools, tests and papers from my PhD, focused on solving web service composition challenges.
 
 ## Directories
 
