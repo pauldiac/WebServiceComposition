@@ -1,0 +1,5 @@
+Solved.
+matched services 8
+matched rules 0
+execution time in seconds: 0.27
+Serv_5201241 Serv_7676234 Serv_7138301 Serv_4555259 Serv_9894363 Serv_8184742 Serv_8379671 Serv_7018544 

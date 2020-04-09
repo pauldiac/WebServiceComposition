@@ -2,61 +2,387 @@ run:
 -------------------------------------------------------------- Input parsing done.
 Knowledge after learning user input and running rules:
 -------------------------------------------------------------- Start building composition.
-nume_rand Serv_3 Serv_2 Serv_1 
-Called service Serv_3 with params:d(nume_rand_0_d) , knowledge after is:
+Serv_5587445 Serv_6942255 Serv_1450628 Serv_4273543 Serv_8284226 Serv_5201241 Serv_7676234 Serv_7138301 Serv_4555259 Serv_9894363 Serv_8184742 Serv_8379671 Serv_7018544 nume_rand Serv_3629978 Serv_1578056 Serv_3344608 Serv_9921623 Serv_7866598 Serv_6712430 Serv_4938137 Serv_5491176 Serv_5011782 Serv_2590675 Serv_9690669 
+Called service Serv_5201241 with params:Nume_5739007(nume_rand_0_Param_9203639) Nume_1087629(nume_rand_0_Param_9203639) Nume_4546910(nume_rand_0_Param_9203639) Nume_4349036(nume_rand_0_Param_9203639) Nume_4241181(nume_rand_0_Param_9203639) , knowledge after is:
 Object by name:
-   Serv_3_1_a : A with relations: Rel_3(Serv_3_1_a, nume_rand_0_d) 
-   nume_rand_0_c : C with no relations.
-   nume_rand_0_d : D with no relations.
-Called service Serv_2 with params:c(nume_rand_0_c) , knowledge after is:
+   Serv_5201241_1_Nume_5035743 : Concept_7925660 with no relations.
+   nume_rand_0_Param_5444111 : Concept_1271082 with no relations.
+   Serv_5201241_1_Nume_2799479 : Concept_1952049 with no relations.
+   Serv_5201241_1_Nume_8051145 : Concept_1952049 with no relations.
+   Serv_5201241_1_Nume_2525900 : Concept_7925660 with no relations.
+   Serv_5201241_1_Nume_8783373 : Concept_1952049 with no relations.
+   Serv_5201241_1_Nume_5756909 : Concept_1952049 with no relations.
+   nume_rand_0_Param_9203639 : Concept_4263328 with relations: Rel_2410490(nume_rand_0_Param_9203639, nume_rand_0_Param_9203639) Rel_9700885(nume_rand_0_Param_9203639, nume_rand_0_Param_9203639) Rel_3415681(nume_rand_0_Param_9203639, nume_rand_0_Param_9203639) Rel_6443587(nume_rand_0_Param_9203639, nume_rand_0_Param_9203639) Rel_2902947(nume_rand_0_Param_9203639, nume_rand_0_Param_9203639) 
+Called service Serv_7676234 with params:Nume_9461618(Serv_5201241_1_Nume_2525900) Nume_7438441(nume_rand_0_Param_9203639) Nume_8290920(Serv_5201241_1_Nume_8051145) Nume_6190886(nume_rand_0_Param_9203639) Nume_0956596(Serv_5201241_1_Nume_5756909) , knowledge after is:
 Object by name:
-   Serv_2_1_a : A with relations: Rel_2(Serv_2_1_a, nume_rand_0_c) 
-   Serv_3_1_a : A with relations: Rel_3(Serv_3_1_a, nume_rand_0_d) 
-   nume_rand_0_c : C with no relations.
-   nume_rand_0_d : D with no relations.
-Called service Serv_1 with params:a(Serv_3_1_a) , knowledge after is:
+   nume_rand_0_Param_5444111 : Concept_1271082 with no relations.
+   Serv_5201241_1_Nume_2525900 : Concept_7925660 with no relations.
+   Serv_5201241_1_Nume_8783373 : Concept_1952049 with no relations.
+   nume_rand_0_Param_9203639 : Concept_4263328 with relations: Rel_2410490(nume_rand_0_Param_9203639, nume_rand_0_Param_9203639) Rel_9700885(nume_rand_0_Param_9203639, nume_rand_0_Param_9203639) Rel_3415681(nume_rand_0_Param_9203639, nume_rand_0_Param_9203639) Rel_6443587(nume_rand_0_Param_9203639, nume_rand_0_Param_9203639) Rel_2902947(nume_rand_0_Param_9203639, nume_rand_0_Param_9203639) 
+   Serv_7676234_1_Nume_2558648 : Concept_4263328 with no relations.
+   Serv_7676234_1_Nume_6118867 : Concept_4551503 with no relations.
+   Serv_5201241_1_Nume_5035743 : Concept_7925660 with no relations.
+   Serv_7676234_1_Nume_6039913 : Concept_4551503 with no relations.
+   Serv_5201241_1_Nume_2799479 : Concept_1952049 with no relations.
+   Serv_7676234_1_Nume_7902875 : Concept_7925660 with no relations.
+   Serv_7676234_1_Nume_4778866 : Concept_4263328 with no relations.
+   Serv_7676234_1_Nume_1001703 : Concept_1952049 with no relations.
+   Serv_5201241_1_Nume_8051145 : Concept_1952049 with no relations.
+   Serv_5201241_1_Nume_5756909 : Concept_1952049 with no relations.
+Called service Serv_7138301 with params:Nume_7967527(Serv_5201241_1_Nume_2525900) Nume_0896449(Serv_5201241_1_Nume_8783373) Nume_8941032(Serv_7676234_1_Nume_6118867) Nume_0466089(Serv_7676234_1_Nume_6039913) Nume_4913595(Serv_7676234_1_Nume_1001703) , knowledge after is:
 Object by name:
-   Serv_2_1_a : A with relations: Rel_2(Serv_2_1_a, nume_rand_0_c) 
-   Serv_1_1_b : B with no relations.
-   Serv_3_1_a : A with relations: Rel_1(Serv_3_1_a, Serv_1_1_b) Rel_3(Serv_3_1_a, nume_rand_0_d) 
-   nume_rand_0_c : C with no relations.
-   nume_rand_0_d : D with no relations.
-Called service Serv_1 with params:a(Serv_2_1_a) , knowledge after is:
+   Serv_7138301_1_Nume_9074627 : Concept_4263328 with no relations.
+   nume_rand_0_Param_5444111 : Concept_1271082 with no relations.
+   Serv_7138301_1_Nume_7216971 : Concept_1952049 with no relations.
+   Serv_5201241_1_Nume_2525900 : Concept_7925660 with no relations.
+   Serv_5201241_1_Nume_8783373 : Concept_1952049 with no relations.
+   nume_rand_0_Param_9203639 : Concept_4263328 with relations: Rel_2410490(nume_rand_0_Param_9203639, nume_rand_0_Param_9203639) Rel_9700885(nume_rand_0_Param_9203639, nume_rand_0_Param_9203639) Rel_3415681(nume_rand_0_Param_9203639, nume_rand_0_Param_9203639) Rel_6443587(nume_rand_0_Param_9203639, nume_rand_0_Param_9203639) Rel_2902947(nume_rand_0_Param_9203639, nume_rand_0_Param_9203639) 
+   Serv_7676234_1_Nume_2558648 : Concept_4263328 with no relations.
+   Serv_7676234_1_Nume_6118867 : Concept_4551503 with no relations.
+   Serv_5201241_1_Nume_5035743 : Concept_7925660 with no relations.
+   Serv_7676234_1_Nume_6039913 : Concept_4551503 with no relations.
+   Serv_7138301_1_Nume_3594298 : Concept_4263328 with no relations.
+   Serv_5201241_1_Nume_2799479 : Concept_1952049 with no relations.
+   Serv_7676234_1_Nume_7902875 : Concept_7925660 with no relations.
+   Serv_7676234_1_Nume_4778866 : Concept_4263328 with no relations.
+   Serv_7676234_1_Nume_1001703 : Concept_1952049 with no relations.
+   Serv_7138301_1_Nume_7099415 : Concept_4263328 with no relations.
+   Serv_5201241_1_Nume_8051145 : Concept_1952049 with no relations.
+   Serv_7138301_1_Nume_6409538 : Concept_3022359 with no relations.
+   Serv_7138301_1_Nume_7591524 : Concept_4263328 with no relations.
+   Serv_5201241_1_Nume_5756909 : Concept_1952049 with no relations.
+Called service Serv_4555259 with params:Nume_7416624(Serv_7676234_1_Nume_6118867) Nume_2944154(Serv_7676234_1_Nume_4778866) Nume_5352989(Serv_7676234_1_Nume_1001703) Nume_3480339(Serv_7676234_1_Nume_6118867) Nume_6687837(Serv_7138301_1_Nume_7216971) , knowledge after is:
 Object by name:
-   Serv_2_1_a : A with relations: Rel_1(Serv_2_1_a, Serv_1_2_b) Rel_2(Serv_2_1_a, nume_rand_0_c) 
-   Serv_1_2_b : B with no relations.
-   Serv_1_1_b : B with no relations.
-   Serv_3_1_a : A with relations: Rel_1(Serv_3_1_a, Serv_1_1_b) Rel_3(Serv_3_1_a, nume_rand_0_d) 
-   nume_rand_0_c : C with no relations.
-   nume_rand_0_d : D with no relations.
-Solved user query with: a1(Serv_2_1_a) a2(Serv_3_1_a) b1(Serv_1_2_b) b2(Serv_1_1_b) c(nume_rand_0_c) d(nume_rand_0_d) 
-objToServ.size() = 6
-servToObj.size() = 3
-execution time in seconds: 0.022
-that number that Liana wants is = 3 : Serv_3 Serv_2 nume_rand Serv_1 
+   Serv_4555259_1_Nume_5789222 : Concept_4551503 with no relations.
+   Serv_5201241_1_Nume_2525900 : Concept_7925660 with no relations.
+   Serv_5201241_1_Nume_8783373 : Concept_1952049 with no relations.
+   Serv_7676234_1_Nume_2558648 : Concept_4263328 with no relations.
+   Serv_7138301_1_Nume_3594298 : Concept_4263328 with no relations.
+   Serv_5201241_1_Nume_2799479 : Concept_1952049 with no relations.
+   Serv_7676234_1_Nume_7902875 : Concept_7925660 with no relations.
+   Serv_4555259_1_Nume_6368057 : Concept_2211672 with no relations.
+   Serv_5201241_1_Nume_8051145 : Concept_1952049 with no relations.
+   Serv_7138301_1_Nume_6409538 : Concept_3022359 with no relations.
+   Serv_5201241_1_Nume_5756909 : Concept_1952049 with no relations.
+   Serv_7138301_1_Nume_9074627 : Concept_4263328 with no relations.
+   Serv_4555259_1_Nume_0543567 : Concept_2211672 with no relations.
+   nume_rand_0_Param_5444111 : Concept_1271082 with no relations.
+   Serv_7138301_1_Nume_7216971 : Concept_1952049 with no relations.
+   Serv_4555259_1_Nume_2933253 : Concept_2211672 with no relations.
+   nume_rand_0_Param_9203639 : Concept_4263328 with relations: Rel_2410490(nume_rand_0_Param_9203639, nume_rand_0_Param_9203639) Rel_9700885(nume_rand_0_Param_9203639, nume_rand_0_Param_9203639) Rel_3415681(nume_rand_0_Param_9203639, nume_rand_0_Param_9203639) Rel_6443587(nume_rand_0_Param_9203639, nume_rand_0_Param_9203639) Rel_2902947(nume_rand_0_Param_9203639, nume_rand_0_Param_9203639) 
+   Serv_7676234_1_Nume_6118867 : Concept_4551503 with no relations.
+   Serv_4555259_1_Nume_9545834 : Concept_0403850 with no relations.
+   Serv_5201241_1_Nume_5035743 : Concept_7925660 with no relations.
+   Serv_4555259_1_Nume_7720742 : Concept_4551503 with no relations.
+   Serv_7676234_1_Nume_6039913 : Concept_4551503 with no relations.
+   Serv_7676234_1_Nume_4778866 : Concept_4263328 with no relations.
+   Serv_7676234_1_Nume_1001703 : Concept_1952049 with no relations.
+   Serv_7138301_1_Nume_7099415 : Concept_4263328 with no relations.
+   Serv_7138301_1_Nume_7591524 : Concept_4263328 with no relations.
+Called service Serv_9894363 with params:Nume_4432557(Serv_4555259_1_Nume_2933253) Nume_5995762(Serv_7138301_1_Nume_7216971) Nume_2751372(Serv_7138301_1_Nume_7591524) Nume_0383244(Serv_5201241_1_Nume_5035743) Nume_3379876(Serv_7138301_1_Nume_7216971) , knowledge after is:
+Object by name:
+   Serv_4555259_1_Nume_5789222 : Concept_4551503 with no relations.
+   Serv_5201241_1_Nume_2525900 : Concept_7925660 with no relations.
+   Serv_5201241_1_Nume_8783373 : Concept_1952049 with no relations.
+   Serv_7676234_1_Nume_2558648 : Concept_4263328 with no relations.
+   Serv_9894363_1_Nume_0777587 : Concept_0403850 with no relations.
+   Serv_7138301_1_Nume_3594298 : Concept_4263328 with no relations.
+   Serv_5201241_1_Nume_2799479 : Concept_1952049 with no relations.
+   Serv_7676234_1_Nume_7902875 : Concept_7925660 with no relations.
+   Serv_4555259_1_Nume_6368057 : Concept_2211672 with no relations.
+   Serv_9894363_1_Nume_9357869 : Concept_0485876 with no relations.
+   Serv_5201241_1_Nume_8051145 : Concept_1952049 with no relations.
+   Serv_7138301_1_Nume_6409538 : Concept_3022359 with no relations.
+   Serv_5201241_1_Nume_5756909 : Concept_1952049 with no relations.
+   Serv_7138301_1_Nume_9074627 : Concept_4263328 with no relations.
+   Serv_4555259_1_Nume_0543567 : Concept_2211672 with no relations.
+   nume_rand_0_Param_5444111 : Concept_1271082 with no relations.
+   Serv_7138301_1_Nume_7216971 : Concept_1952049 with no relations.
+   Serv_9894363_1_Nume_6004080 : Concept_0485876 with no relations.
+   Serv_9894363_1_Nume_0436655 : Concept_3022359 with no relations.
+   Serv_9894363_1_Nume_5350823 : Concept_2211672 with no relations.
+   Serv_4555259_1_Nume_2933253 : Concept_2211672 with no relations.
+   nume_rand_0_Param_9203639 : Concept_4263328 with relations: Rel_2410490(nume_rand_0_Param_9203639, nume_rand_0_Param_9203639) Rel_9700885(nume_rand_0_Param_9203639, nume_rand_0_Param_9203639) Rel_3415681(nume_rand_0_Param_9203639, nume_rand_0_Param_9203639) Rel_6443587(nume_rand_0_Param_9203639, nume_rand_0_Param_9203639) Rel_2902947(nume_rand_0_Param_9203639, nume_rand_0_Param_9203639) 
+   Serv_7676234_1_Nume_6118867 : Concept_4551503 with no relations.
+   Serv_4555259_1_Nume_9545834 : Concept_0403850 with no relations.
+   Serv_5201241_1_Nume_5035743 : Concept_7925660 with no relations.
+   Serv_4555259_1_Nume_7720742 : Concept_4551503 with no relations.
+   Serv_7676234_1_Nume_6039913 : Concept_4551503 with no relations.
+   Serv_9894363_1_Nume_8770348 : Concept_0485876 with no relations.
+   Serv_7676234_1_Nume_4778866 : Concept_4263328 with no relations.
+   Serv_7676234_1_Nume_1001703 : Concept_1952049 with no relations.
+   Serv_7138301_1_Nume_7099415 : Concept_4263328 with no relations.
+   Serv_7138301_1_Nume_7591524 : Concept_4263328 with no relations.
+Called service Serv_8184742 with params:Nume_5645826(Serv_7138301_1_Nume_6409538) Nume_4943002(Serv_5201241_1_Nume_5035743) Nume_9331121(Serv_5201241_1_Nume_5035743) Nume_8929944(Serv_7676234_1_Nume_2558648) Nume_2537972(Serv_7676234_1_Nume_4778866) , knowledge after is:
+Object by name:
+   Serv_4555259_1_Nume_5789222 : Concept_4551503 with no relations.
+   Serv_8184742_1_Nume_6323728 : Concept_7925660 with no relations.
+   Serv_5201241_1_Nume_2525900 : Concept_7925660 with no relations.
+   Serv_5201241_1_Nume_8783373 : Concept_1952049 with no relations.
+   Serv_7676234_1_Nume_2558648 : Concept_4263328 with no relations.
+   Serv_9894363_1_Nume_0777587 : Concept_0403850 with no relations.
+   Serv_7138301_1_Nume_3594298 : Concept_4263328 with no relations.
+   Serv_8184742_1_Nume_1551715 : Concept_0485876 with no relations.
+   Serv_5201241_1_Nume_2799479 : Concept_1952049 with no relations.
+   Serv_7676234_1_Nume_7902875 : Concept_7925660 with no relations.
+   Serv_4555259_1_Nume_6368057 : Concept_2211672 with no relations.
+   Serv_9894363_1_Nume_9357869 : Concept_0485876 with no relations.
+   Serv_5201241_1_Nume_8051145 : Concept_1952049 with no relations.
+   Serv_7138301_1_Nume_6409538 : Concept_3022359 with no relations.
+   Serv_5201241_1_Nume_5756909 : Concept_1952049 with no relations.
+   Serv_8184742_1_Nume_9436826 : Concept_8995784 with no relations.
+   Serv_7138301_1_Nume_9074627 : Concept_4263328 with no relations.
+   Serv_4555259_1_Nume_0543567 : Concept_2211672 with no relations.
+   nume_rand_0_Param_5444111 : Concept_1271082 with no relations.
+   Serv_7138301_1_Nume_7216971 : Concept_1952049 with no relations.
+   Serv_8184742_1_Nume_6697605 : Concept_8995784 with no relations.
+   Serv_9894363_1_Nume_6004080 : Concept_0485876 with no relations.
+   Serv_8184742_1_Nume_3287221 : Concept_0485876 with no relations.
+   Serv_9894363_1_Nume_0436655 : Concept_3022359 with no relations.
+   Serv_9894363_1_Nume_5350823 : Concept_2211672 with no relations.
+   Serv_4555259_1_Nume_2933253 : Concept_2211672 with no relations.
+   nume_rand_0_Param_9203639 : Concept_4263328 with relations: Rel_2410490(nume_rand_0_Param_9203639, nume_rand_0_Param_9203639) Rel_9700885(nume_rand_0_Param_9203639, nume_rand_0_Param_9203639) Rel_3415681(nume_rand_0_Param_9203639, nume_rand_0_Param_9203639) Rel_6443587(nume_rand_0_Param_9203639, nume_rand_0_Param_9203639) Rel_2902947(nume_rand_0_Param_9203639, nume_rand_0_Param_9203639) 
+   Serv_7676234_1_Nume_6118867 : Concept_4551503 with no relations.
+   Serv_4555259_1_Nume_9545834 : Concept_0403850 with no relations.
+   Serv_5201241_1_Nume_5035743 : Concept_7925660 with no relations.
+   Serv_4555259_1_Nume_7720742 : Concept_4551503 with no relations.
+   Serv_7676234_1_Nume_6039913 : Concept_4551503 with no relations.
+   Serv_9894363_1_Nume_8770348 : Concept_0485876 with no relations.
+   Serv_7676234_1_Nume_4778866 : Concept_4263328 with no relations.
+   Serv_7676234_1_Nume_1001703 : Concept_1952049 with no relations.
+   Serv_7138301_1_Nume_7099415 : Concept_4263328 with no relations.
+   Serv_8184742_1_Nume_9913823 : Concept_3022359 with no relations.
+   Serv_7138301_1_Nume_7591524 : Concept_4263328 with no relations.
+Called service Serv_8379671 with params:Nume_8145316(Serv_5201241_1_Nume_5035743) Nume_5895573(Serv_7676234_1_Nume_7902875) Nume_2263525(Serv_5201241_1_Nume_5756909) Nume_2744828(Serv_8184742_1_Nume_6323728) Nume_0709305(Serv_5201241_1_Nume_2799479) , knowledge after is:
+Object by name:
+   Serv_4555259_1_Nume_5789222 : Concept_4551503 with no relations.
+   Serv_8184742_1_Nume_6323728 : Concept_7925660 with no relations.
+   Serv_8379671_1_Nume_1141807 : Concept_7925660 with no relations.
+   Serv_5201241_1_Nume_2525900 : Concept_7925660 with no relations.
+   Serv_5201241_1_Nume_8783373 : Concept_1952049 with no relations.
+   Serv_7676234_1_Nume_2558648 : Concept_4263328 with no relations.
+   Serv_9894363_1_Nume_0777587 : Concept_0403850 with no relations.
+   Serv_7138301_1_Nume_3594298 : Concept_4263328 with no relations.
+   Serv_8184742_1_Nume_1551715 : Concept_0485876 with no relations.
+   Serv_5201241_1_Nume_2799479 : Concept_1952049 with no relations.
+   Serv_7676234_1_Nume_7902875 : Concept_7925660 with no relations.
+   Serv_4555259_1_Nume_6368057 : Concept_2211672 with no relations.
+   Serv_9894363_1_Nume_9357869 : Concept_0485876 with no relations.
+   Serv_5201241_1_Nume_8051145 : Concept_1952049 with no relations.
+   Serv_7138301_1_Nume_6409538 : Concept_3022359 with no relations.
+   Serv_5201241_1_Nume_5756909 : Concept_1952049 with no relations.
+   Serv_8184742_1_Nume_9436826 : Concept_8995784 with no relations.
+   Serv_8379671_1_Nume_3247008 : Concept_4263328 with no relations.
+   Serv_8379671_1_Nume_7630346 : Concept_7925660 with no relations.
+   Serv_7138301_1_Nume_9074627 : Concept_4263328 with no relations.
+   Serv_4555259_1_Nume_0543567 : Concept_2211672 with no relations.
+   nume_rand_0_Param_5444111 : Concept_1271082 with no relations.
+   Serv_7138301_1_Nume_7216971 : Concept_1952049 with no relations.
+   Serv_8184742_1_Nume_6697605 : Concept_8995784 with no relations.
+   Serv_9894363_1_Nume_6004080 : Concept_0485876 with no relations.
+   Serv_8184742_1_Nume_3287221 : Concept_0485876 with no relations.
+   Serv_9894363_1_Nume_0436655 : Concept_3022359 with no relations.
+   Serv_9894363_1_Nume_5350823 : Concept_2211672 with no relations.
+   Serv_8379671_1_Nume_7389419 : Concept_1952049 with no relations.
+   Serv_8379671_1_Nume_0815620 : Concept_1952049 with no relations.
+   Serv_4555259_1_Nume_2933253 : Concept_2211672 with no relations.
+   nume_rand_0_Param_9203639 : Concept_4263328 with relations: Rel_2410490(nume_rand_0_Param_9203639, nume_rand_0_Param_9203639) Rel_9700885(nume_rand_0_Param_9203639, nume_rand_0_Param_9203639) Rel_3415681(nume_rand_0_Param_9203639, nume_rand_0_Param_9203639) Rel_6443587(nume_rand_0_Param_9203639, nume_rand_0_Param_9203639) Rel_2902947(nume_rand_0_Param_9203639, nume_rand_0_Param_9203639) 
+   Serv_7676234_1_Nume_6118867 : Concept_4551503 with no relations.
+   Serv_4555259_1_Nume_9545834 : Concept_0403850 with no relations.
+   Serv_5201241_1_Nume_5035743 : Concept_7925660 with no relations.
+   Serv_4555259_1_Nume_7720742 : Concept_4551503 with no relations.
+   Serv_7676234_1_Nume_6039913 : Concept_4551503 with no relations.
+   Serv_9894363_1_Nume_8770348 : Concept_0485876 with no relations.
+   Serv_8379671_1_Nume_8868039 : Concept_4551503 with no relations.
+   Serv_7676234_1_Nume_4778866 : Concept_4263328 with no relations.
+   Serv_7676234_1_Nume_1001703 : Concept_1952049 with no relations.
+   Serv_7138301_1_Nume_7099415 : Concept_4263328 with no relations.
+   Serv_8184742_1_Nume_9913823 : Concept_3022359 with no relations.
+   Serv_7138301_1_Nume_7591524 : Concept_4263328 with no relations.
+Called service Serv_7018544 with params:Nume_1018075(Serv_8379671_1_Nume_0815620) Nume_0765793(Serv_4555259_1_Nume_7720742) Nume_9289275(Serv_4555259_1_Nume_0543567) Nume_2595786(Serv_4555259_1_Nume_6368057) Nume_3621094(Serv_7676234_1_Nume_6039913) , knowledge after is:
+Object by name:
+   Serv_4555259_1_Nume_5789222 : Concept_4551503 with no relations.
+   Serv_8379671_1_Nume_1141807 : Concept_7925660 with no relations.
+   Serv_5201241_1_Nume_2525900 : Concept_7925660 with no relations.
+   Serv_5201241_1_Nume_2799479 : Concept_1952049 with no relations.
+   Serv_7676234_1_Nume_7902875 : Concept_7925660 with no relations.
+   Serv_5201241_1_Nume_8051145 : Concept_1952049 with no relations.
+   Serv_8184742_1_Nume_9436826 : Concept_8995784 with no relations.
+   Serv_8379671_1_Nume_7630346 : Concept_7925660 with no relations.
+   Serv_7138301_1_Nume_9074627 : Concept_4263328 with no relations.
+   Serv_7018544_1_Nume_9802690 : Concept_0485876 with no relations.
+   Serv_7138301_1_Nume_7216971 : Concept_1952049 with no relations.
+   Serv_9894363_1_Nume_6004080 : Concept_0485876 with no relations.
+   Serv_9894363_1_Nume_0436655 : Concept_3022359 with no relations.
+   Serv_9894363_1_Nume_5350823 : Concept_2211672 with no relations.
+   Serv_8379671_1_Nume_7389419 : Concept_1952049 with no relations.
+   Serv_7018544_1_Nume_8707907 : Concept_0403850 with no relations.
+   Serv_4555259_1_Nume_2933253 : Concept_2211672 with no relations.
+   Serv_4555259_1_Nume_7720742 : Concept_4551503 with no relations.
+   Serv_7676234_1_Nume_6039913 : Concept_4551503 with no relations.
+   Serv_8379671_1_Nume_8868039 : Concept_4551503 with no relations.
+   Serv_7676234_1_Nume_1001703 : Concept_1952049 with no relations.
+   Serv_7138301_1_Nume_7099415 : Concept_4263328 with no relations.
+   Serv_8184742_1_Nume_9913823 : Concept_3022359 with no relations.
+   Serv_7138301_1_Nume_7591524 : Concept_4263328 with no relations.
+   Serv_7018544_1_Nume_9899041 : Concept_2211672 with no relations.
+   Serv_8184742_1_Nume_6323728 : Concept_7925660 with no relations.
+   Serv_5201241_1_Nume_8783373 : Concept_1952049 with no relations.
+   Serv_7676234_1_Nume_2558648 : Concept_4263328 with no relations.
+   Serv_9894363_1_Nume_0777587 : Concept_0403850 with no relations.
+   Serv_7138301_1_Nume_3594298 : Concept_4263328 with no relations.
+   Serv_7018544_1_Nume_9488158 : Concept_2211672 with no relations.
+   Serv_8184742_1_Nume_1551715 : Concept_0485876 with no relations.
+   Serv_4555259_1_Nume_6368057 : Concept_2211672 with no relations.
+   Serv_9894363_1_Nume_9357869 : Concept_0485876 with no relations.
+   Serv_7138301_1_Nume_6409538 : Concept_3022359 with no relations.
+   Serv_5201241_1_Nume_5756909 : Concept_1952049 with no relations.
+   Serv_8379671_1_Nume_3247008 : Concept_4263328 with no relations.
+   Serv_4555259_1_Nume_0543567 : Concept_2211672 with no relations.
+   nume_rand_0_Param_5444111 : Concept_1271082 with no relations.
+   Serv_8184742_1_Nume_6697605 : Concept_8995784 with no relations.
+   Serv_8184742_1_Nume_3287221 : Concept_0485876 with no relations.
+   Serv_7018544_1_Nume_1652321 : Concept_0485876 with no relations.
+   Serv_8379671_1_Nume_0815620 : Concept_1952049 with no relations.
+   nume_rand_0_Param_9203639 : Concept_4263328 with relations: Rel_2410490(nume_rand_0_Param_9203639, nume_rand_0_Param_9203639) Rel_9700885(nume_rand_0_Param_9203639, nume_rand_0_Param_9203639) Rel_3415681(nume_rand_0_Param_9203639, nume_rand_0_Param_9203639) Rel_6443587(nume_rand_0_Param_9203639, nume_rand_0_Param_9203639) Rel_2902947(nume_rand_0_Param_9203639, nume_rand_0_Param_9203639) 
+   Serv_7676234_1_Nume_6118867 : Concept_4551503 with no relations.
+   Serv_4555259_1_Nume_9545834 : Concept_0403850 with no relations.
+   Serv_5201241_1_Nume_5035743 : Concept_7925660 with no relations.
+   Serv_9894363_1_Nume_8770348 : Concept_0485876 with no relations.
+   Serv_7018544_1_Nume_0205016 : Concept_4263328 with no relations.
+   Serv_7676234_1_Nume_4778866 : Concept_4263328 with no relations.
+Solved user query with: Param_6294676(Serv_4555259_1_Nume_0543567) Param_1403809(Serv_9894363_1_Nume_9357869) Param_4826662(nume_rand_0_Param_5444111) Param_1858450(Serv_5201241_1_Nume_8051145) Param_9241132(Serv_7018544_1_Nume_9488158) Param_0730138(Serv_4555259_1_Nume_5789222) Param_0999322(Serv_7138301_1_Nume_9074627) Param_2424769(Serv_4555259_1_Nume_5789222) Param_7318346(Serv_7676234_1_Nume_7902875) Param_4341120(Serv_8184742_1_Nume_6697605) Param_5444111(nume_rand_0_Param_5444111) Param_9203639(Serv_7138301_1_Nume_7099415) 
+objToServ.size() = 50
+servToObj.size() = 8
+execution time in seconds: 0.27
+that number that Liana wants is = 8 : Serv_8379671 nume_rand Serv_7138301 Serv_4555259 Serv_7676234 Serv_5201241 Serv_8184742 Serv_9894363 Serv_7018544 
 
-repository size: 3
-#services (4) are :
+repository size: 24
+#services (25) are :
+
+Serv_5587445
+input = Nume_1026963 : Concept_7925660 , Nume_9326145 : Concept_4263328 , Nume_3966342 : Concept_4263328 , Nume_6816750 : Concept_4263328 , Nume_0697909 : Concept_4263328 , 
+output = Nume_6422773 : Concept_2211672, Nume_2573461 : Concept_2211672, Nume_6993297 : Concept_4263328, Nume_8972117 : Concept_1952049, Nume_1781742 : Concept_4551503, Nume_5995908 : Concept_4551503, 
+relations = 
+
+Serv_6942255
+input = Nume_2327160 : Concept_7925660 , Nume_2837284 : Concept_7925660 , Nume_4147972 : Concept_4551503 , Nume_8956614 : Concept_2211672 , Nume_4147100 : Concept_1952049 , 
+output = Nume_9544691 : Concept_0485876, Nume_9799040 : Concept_4263328, Nume_1865996 : Concept_0403850, Nume_6031452 : Concept_4263328, Nume_2519345 : Concept_1952049, Nume_9645103 : Concept_2211672, 
+relations = 
+
+Serv_1450628
+input = Nume_7831302 : Concept_7925660 , Nume_7328612 : Concept_4263328 , Nume_8161997 : Concept_4263328 , Nume_7912149 : Concept_1952049 , Nume_0397380 : Concept_1952049 , 
+output = Nume_7936049 : Concept_1952049, Nume_8099035 : Concept_4551503, Nume_7421915 : Concept_7925660, Nume_9198139 : Concept_1952049, Nume_5002639 : Concept_4551503, Nume_4647770 : Concept_2211672, 
+relations = 
+
+Serv_4273543
+input = Nume_4199088 : Concept_7925660 , Nume_1789254 : Concept_1952049 , Nume_8379418 : Concept_7925660 , Nume_4542379 : Concept_1952049 , Nume_3501882 : Concept_2211672 , 
+output = Nume_8377711 : Concept_2211672, Nume_4040279 : Concept_7925660, Nume_4936472 : Concept_4551503, Nume_3712873 : Concept_1952049, Nume_7199915 : Concept_0485876, Nume_6990648 : Concept_7925660, 
+relations = 
+
+Serv_8284226
+input = Nume_5204686 : Concept_4263328 , Nume_8414182 : Concept_1952049 , Nume_4752729 : Concept_4263328 , Nume_2659375 : Concept_1952049 , Nume_8120151 : Concept_4263328 , 
+output = Nume_5032193 : Concept_2211672, Nume_0962831 : Concept_7925660, Nume_7211630 : Concept_4551503, Nume_3523460 : Concept_7925660, Nume_5240424 : Concept_1952049, Nume_1113587 : Concept_7925660, 
+relations = 
+
+Serv_5201241
+input = Nume_5739007 : Concept_4263328 , Nume_1087629 : Concept_4263328 , Nume_4546910 : Concept_4263328 , Nume_4349036 : Concept_4263328 , Nume_4241181 : Concept_4263328 , 
+output = Nume_2525900 : Concept_7925660, Nume_2799479 : Concept_1952049, Nume_5756909 : Concept_1952049, Nume_8051145 : Concept_1952049, Nume_8783373 : Concept_1952049, Nume_5035743 : Concept_7925660, 
+relations = 
+
+Serv_7676234
+input = Nume_9461618 : Concept_7925660 , Nume_7438441 : Concept_4263328 , Nume_8290920 : Concept_1952049 , Nume_6190886 : Concept_4263328 , Nume_0956596 : Concept_1952049 , 
+output = Nume_2558648 : Concept_4263328, Nume_4778866 : Concept_4263328, Nume_1001703 : Concept_1952049, Nume_6118867 : Concept_4551503, Nume_7902875 : Concept_7925660, Nume_6039913 : Concept_4551503, 
+relations = 
+
+Serv_7138301
+input = Nume_7967527 : Concept_7925660 , Nume_0896449 : Concept_0403850 , Nume_8941032 : Concept_2211672 , Nume_0466089 : Concept_2211672 , Nume_4913595 : Concept_1952049 , 
+output = Nume_6409538 : Concept_3022359, Nume_3594298 : Concept_4263328, Nume_7099415 : Concept_4263328, Nume_7591524 : Concept_4263328, Nume_9074627 : Concept_4263328, Nume_7216971 : Concept_1952049, 
+relations = 
+
+Serv_4555259
+input = Nume_7416624 : Concept_2211672 , Nume_2944154 : Concept_4263328 , Nume_5352989 : Concept_1952049 , Nume_3480339 : Concept_4551503 , Nume_6687837 : Concept_1952049 , 
+output = Nume_6368057 : Concept_2211672, Nume_7720742 : Concept_4551503, Nume_5789222 : Concept_4551503, Nume_0543567 : Concept_2211672, Nume_9545834 : Concept_0403850, Nume_2933253 : Concept_2211672, 
+relations = 
+
+Serv_9894363
+input = Nume_4432557 : Concept_0485876 , Nume_5995762 : Concept_1952049 , Nume_2751372 : Concept_0403850 , Nume_0383244 : Concept_7925660 , Nume_3379876 : Concept_1952049 , 
+output = Nume_6004080 : Concept_0485876, Nume_8770348 : Concept_0485876, Nume_0777587 : Concept_0403850, Nume_9357869 : Concept_0485876, Nume_0436655 : Concept_3022359, Nume_5350823 : Concept_2211672, 
+relations = 
+
+Serv_8184742
+input = Nume_5645826 : Concept_2211672 , Nume_4943002 : Concept_7925660 , Nume_9331121 : Concept_7925660 , Nume_8929944 : Concept_4263328 , Nume_2537972 : Concept_0403850 , 
+output = Nume_9436826 : Concept_8995784, Nume_1551715 : Concept_0485876, Nume_9913823 : Concept_3022359, Nume_3287221 : Concept_0485876, Nume_6697605 : Concept_8995784, Nume_6323728 : Concept_7925660, 
+relations = 
+
+Serv_8379671
+input = Nume_8145316 : Concept_7925660 , Nume_5895573 : Concept_7925660 , Nume_2263525 : Concept_1952049 , Nume_2744828 : Concept_7925660 , Nume_0709305 : Concept_1952049 , 
+output = Nume_3247008 : Concept_4263328, Nume_7389419 : Concept_1952049, Nume_7630346 : Concept_7925660, Nume_1141807 : Concept_7925660, Nume_8868039 : Concept_4551503, Nume_0815620 : Concept_1952049, 
+relations = 
+
+Serv_7018544
+input = Nume_1018075 : Concept_1952049 , Nume_0765793 : Concept_4551503 , Nume_9289275 : Concept_2211672 , Nume_2595786 : Concept_2211672 , Nume_3621094 : Concept_4551503 , 
+output = Nume_8707907 : Concept_0403850, Nume_9899041 : Concept_2211672, Nume_9488158 : Concept_2211672, Nume_0205016 : Concept_4263328, Nume_9802690 : Concept_0485876, Nume_1652321 : Concept_0485876, 
+relations = 
 
 nume_rand
-input = a1 : A ( Rel_1(a1, b1) Rel_2(a1, c)  ) , a2 : A ( Rel_1(a2, b2) Rel_3(a2, d)  ) , b1 : B , b2 : B , c : C , d : D , 
-output = c : C, d : D, 
-relations = Rel_1(a1, b1), Rel_1(a2, b2), Rel_2(a1, c), Rel_3(a2, d), 
+input = Param_6294676 : Concept_0403850 , Param_1403809 : Concept_0485876 , Param_4826662 : Concept_1271082 , Param_1858450 : Concept_1952049 , Param_9241132 : Concept_2211672 , Param_0730138 : Concept_3022359 , Param_0999322 : Concept_4263328 , Param_2424769 : Concept_4551503 , Param_7318346 : Concept_7925660 , Param_4341120 : Concept_8995784 , Param_5444111 : Concept_1271082 , Param_9203639 : Concept_4263328 ( Rel_3415681(Param_9203639, Param_9203639) Rel_9700885(Param_9203639, Param_9203639) Rel_6443587(Param_9203639, Param_9203639) Rel_2902947(Param_9203639, Param_9203639) Rel_2410490(Param_9203639, Param_9203639)  ) , 
+output = Param_5444111 : Concept_1271082, Param_9203639 : Concept_4263328, 
+relations = Rel_3415681(Param_9203639, Param_9203639), Rel_9700885(Param_9203639, Param_9203639), Rel_6443587(Param_9203639, Param_9203639), Rel_2902947(Param_9203639, Param_9203639), Rel_2410490(Param_9203639, Param_9203639), 
 
-Serv_3
-input = d : D , 
-output = a : A, 
-relations = Rel_3(a, d), 
+Serv_3629978
+input = Nume_3301007 : Concept_4263328 , Nume_7489002 : Concept_4263328 , Nume_9165658 : Concept_4263328 , Nume_9833373 : Concept_4263328 , Nume_0757302 : Concept_4263328 , 
+output = Nume_1818383 : Concept_1952049, Nume_4967047 : Concept_1952049, Nume_7164139 : Concept_1952049, Nume_9547619 : Concept_1952049, Nume_6470698 : Concept_4263328, Nume_6996166 : Concept_7925660, 
+relations = 
 
-Serv_2
-input = c : C , 
-output = a : A, 
-relations = Rel_2(a, c), 
+Serv_1578056
+input = Nume_4133251 : Concept_4263328 , Nume_4838728 : Concept_4263328 , Nume_2486957 : Concept_4263328 , Nume_6555187 : Concept_4263328 , Nume_8113766 : Concept_4263328 , 
+output = Nume_5598598 : Concept_4263328, Nume_6114394 : Concept_4263328, Nume_2784987 : Concept_1952049, Nume_4090016 : Concept_1952049, Nume_2182415 : Concept_1952049, Nume_3683553 : Concept_4263328, 
+relations = 
 
-Serv_1
-input = a : A ( Rel_1(a, b)  ) , 
-output = b : B, 
-relations = Rel_1(a, b), 
+Serv_3344608
+input = Nume_5306973 : Concept_4263328 , Nume_2345376 : Concept_4263328 , Nume_7362885 : Concept_4263328 , Nume_6795668 : Concept_4263328 , Nume_9067094 : Concept_4263328 , 
+output = Nume_9681877 : Concept_1952049, Nume_1348248 : Concept_7925660, Nume_3664256 : Concept_7925660, Nume_3719804 : Concept_1952049, Nume_2599839 : Concept_4263328, Nume_1471727 : Concept_1952049, 
+relations = 
 
-BUILD SUCCESSFUL (total time: 0 seconds)
+Serv_9921623
+input = Nume_2547193 : Concept_4263328 , Nume_7460321 : Concept_1952049 , Nume_8928213 : Concept_7925660 , Nume_4806027 : Concept_2211672 , Nume_0361596 : Concept_4263328 , 
+output = Nume_7072780 : Concept_1952049, Nume_0691517 : Concept_1952049, Nume_6384237 : Concept_4551503, Nume_9585654 : Concept_0403850, Nume_4174145 : Concept_0485876, Nume_8508563 : Concept_1952049, 
+relations = 
 
+Serv_7866598
+input = Nume_5431620 : Concept_4263328 , Nume_0796038 : Concept_4263328 , Nume_3678861 : Concept_4263328 , Nume_6150154 : Concept_4263328 , Nume_0296917 : Concept_4263328 , 
+output = Nume_8258453 : Concept_7925660, Nume_6515008 : Concept_4263328, Nume_9058894 : Concept_7925660, Nume_8377126 : Concept_7925660, Nume_6983916 : Concept_7925660, Nume_0515826 : Concept_4263328, 
+relations = 
+
+Serv_6712430
+input = Nume_1009819 : Concept_4551503 , Nume_7179371 : Concept_2211672 , Nume_3386564 : Concept_7925660 , Nume_1805799 : Concept_4263328 , Nume_0450621 : Concept_7925660 , 
+output = Nume_1953845 : Concept_2211672, Nume_3255449 : Concept_0403850, Nume_1117984 : Concept_7925660, Nume_4008111 : Concept_2211672, Nume_4205485 : Concept_2211672, Nume_7594628 : Concept_4263328, 
+relations = 
+
+Serv_4938137
+input = Nume_8745619 : Concept_4263328 , Nume_1996003 : Concept_2211672 , Nume_1285347 : Concept_4551503 , Nume_3711854 : Concept_1952049 , Nume_6678217 : Concept_2211672 , 
+output = Nume_9909612 : Concept_0403850, Nume_2873297 : Concept_0485876, Nume_9608018 : Concept_2211672, Nume_9301413 : Concept_0403850, Nume_3137134 : Concept_4263328, Nume_4104115 : Concept_1952049, 
+relations = 
+
+Serv_5491176
+input = Nume_8245761 : Concept_4263328 , Nume_7492492 : Concept_4263328 , Nume_5912054 : Concept_4263328 , Nume_0404616 : Concept_4263328 , Nume_9187799 : Concept_4263328 , 
+output = Nume_1345102 : Concept_1952049, Nume_5766212 : Concept_7925660, Nume_4459232 : Concept_7925660, Nume_5952463 : Concept_4263328, Nume_0764792 : Concept_4263328, Nume_1485071 : Concept_1952049, 
+relations = 
+
+Serv_5011782
+input = Nume_5595355 : Concept_2211672 , Nume_2158678 : Concept_2211672 , Nume_0642749 : Concept_1952049 , Nume_8821451 : Concept_4551503 , Nume_5681184 : Concept_2211672 , 
+output = Nume_5320333 : Concept_0485876, Nume_3317682 : Concept_4263328, Nume_7649880 : Concept_0485876, Nume_7527805 : Concept_7925660, Nume_5778259 : Concept_4263328, Nume_5692188 : Concept_7925660, 
+relations = 
+
+Serv_2590675
+input = Nume_3291072 : Concept_2211672 , Nume_9864446 : Concept_4263328 , Nume_1401945 : Concept_4551503 , Nume_1809922 : Concept_2211672 , Nume_9390155 : Concept_2211672 , 
+output = Nume_6777185 : Concept_7925660, Nume_0863304 : Concept_2211672, Nume_1000648 : Concept_4263328, Nume_3364726 : Concept_4551503, Nume_2885434 : Concept_1952049, Nume_8678266 : Concept_0403850, 
+relations = 
+
+Serv_9690669
+input = Nume_9206973 : Concept_4263328 , Nume_8902381 : Concept_4263328 , Nume_0694509 : Concept_1952049 , Nume_0212865 : Concept_1952049 , Nume_0046361 : Concept_7925660 , 
+output = Nume_8808619 : Concept_7925660, Nume_1043701 : Concept_2211672, Nume_1887189 : Concept_4263328, Nume_1093130 : Concept_1952049, Nume_1369418 : Concept_4263328, Nume_8874378 : Concept_1952049, 
+relations = 
+
+BUILD SUCCESSFUL (total time: 1 second)
